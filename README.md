@@ -2,3 +2,5 @@ This repository marks the travels of my go learning experience. Coming from a ba
 weiqi, and a fairly wide base of programming knowledge, I am eager to accept this new foe!
 
 weiqi??? stop...
+
+dQeiee is better.
